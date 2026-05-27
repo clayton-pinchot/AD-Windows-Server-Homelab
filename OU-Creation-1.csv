@@ -1,0 +1,12 @@
+﻿name,path
+Tier-0,"DC=clab,DC=internal"
+Domain-Controller,"OU=Tier-0,DC=clab,DC=internal"
+Domain-Admins,"OU=Tier-0,DC=clab,DC=internal"
+Tier-1,"DC=clab,DC=internal"
+Server-Admins,"OU=Tier-1,DC=clab,DC=internal"
+Tier-2,"DC=clab,DC=internal"
+Admin,"OU=Tier-0,DC=clab,DC=internal"
+IT,"OU=Tier-1,DC=clab,DC=internal"
+Departments,"OU=Tier-2,DC=clab,DC=internal"
+Accounting,"OU=Departments,OU=Tier-2,DC=clab,DC=internal"
+Sales,"OU=Departments,OU=Tier-2,DC=clab,DC=internal"
