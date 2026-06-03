@@ -2,15 +2,15 @@
 
 ## System Configuration
 ### Virtual Machine Configuration 
-#### Planned Completion: 06/02/2026
+#### Completed: 06/02/2026
 | Task                                              | Planned Completion | Date Completed |
 |---------------------------------------------------|--------------------|----------------|
 | Hypervisor Install and Prep                       | 06/01/2026         | 05/27/2026     |
 | Workstation VM Install                            | 06/01/2026         | 05/27/2026     |
-| Server Manager Initial Config                     | 06/02/2026         |                |
-| Set Hostname                                      | 06/02/2026         |                |
-| IP Address Config                                 | 06/02/2026         |                |
-| Initial Firewall Config                           | 06/02/2026         |                |
+| Server Manager Initial Config                     | 06/02/2026         | 06/02/2026     |
+| Set Hostname                                      | 06/02/2026         | 06/02/2026     |
+| IP Address Config                                 | 06/02/2026         | 06/02/2026     |
+| Initial Firewall Config                           | 06/02/2026         | 06/02/2026     |
 
 ### Active Directory Configuration
 #### Planned Completion: 06/03/2026
@@ -24,9 +24,9 @@
 | Task                                              | Planned Completion | Date Completed |
 |---------------------------------------------------|--------------------|----------------|
 | Windows Server VM Install                         | 06/01/2026         | 05/27/2026     |
-| Set Hostname                                      | 06/02/2026         |                |
-| IP Address Config                                 | 06/02/2026         |                |
-| Test Network Connection to DC                     | 06/02/2026         |                |
+| Set Hostname                                      | 06/02/2026         | 06/02/2026     |
+| IP Address Config                                 | 06/02/2026         | 06/02/2026     |
+| Test Network Connection to DC                     | 06/02/2026         | 06/02/2026     |
 | Join Domain                                       | 06/03/2026         |                |
 | Confirm Domain Access                             | 06/03/2026         |                |
 
@@ -42,10 +42,14 @@
 | Create Powershell Script for OU Creation          | 06/03/2026         | 05/27/2026     |
 | Test Powershell Script for OU Creation            | 06/03/2026         |                |
 | Confirm Proper Config of OUs                      | 06/03/2026         |                |
-| Create csv File for Group/User Creation           | 06/03/2026         |                |
-| Create Powershell Script for Group/User Creation  | 06/03/2026         |                |
-| Test Powershell Script for Group/User Creation    | 06/03/2026         |                |
-| Confirm Proper Config of Groups/Users             | 06/03/2026         |                |
+| Create csv File for Group Creation                | 06/03/2026         |                |
+| Create Powershell Script for Group Creation       | 06/03/2026         |                |
+| Test Powershell Script for Group Creation         | 06/03/2026         |                |
+| Confirm Proper Config of Groups                   | 06/03/2026         |                |
+| Create csv File for User Creation                 | 06/03/2026         |                |
+| Create Powershell Script for User Creation        | 06/03/2026         |                |
+| Test Powershell Script for User Creation          | 06/03/2026         |                |
+| Confirm Proper Config of Users                    | 06/03/2026         |                |
 
 ### Group Policy Setup
 #### Planned Completion: 06/06/2026
@@ -125,6 +129,5 @@
 | Windows Server Backup: System State Backups       |                    |                |
 | Windows Server Backup: AD Restore                 |                    |                |
 | Azure AD Connect: Hybrid Infrastructure           |                    |                |
-|                                                   |                    |                |
 | Final Review of Lab Work and Components           |                    |                |
 | Final Write Up                                    |                    |                |
