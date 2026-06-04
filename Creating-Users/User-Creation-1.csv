@@ -1,0 +1,14 @@
+﻿firstname,lastname,jobtitle,phonenumber,department,email,username,password,OU,group
+Jimmy,Smith,Sr Sys Admin,9727411234,IT,jsmith@clab.internal,jsmith,Test1234,"OU=Server-Admins, OU=Tier-1, DC=clab, DC=internal",Server-Admins
+Jackie,Doe,CEO,2415677541,C-Suite,jdoe@clab.internal,jdoe,Test1234,"OU=Admin, OU=Tier-2, DC=clab, DC=internal",C-Suite
+Matthew,Jacobs,COO,9844567459,C-Suite,mjacobs@clab.internal,mjacobs,Test1234,"OU=Admin, OU=Tier-2, DC=clab, DC=internal",C-Suite
+Jacob,Matthews,CTO,9877657537,C-Suite,jmatthews@clab.internal,jmatthews,Test1234,"OU=Admin, OU=Tier-2, DC=clab, DC=internal",C-Suite
+Mark,Daniels,Sys Admin,9755344125,IT,mdaniels@clab.internal,mdaniels,Test1234,"OU= IT, OU=Tier-2, DC=clab, DC=internal",Sys-Admin
+Adam,Stevens,Helpdesk,6755211459,IT,astevens@clab.internal,astevens,Test1234,"OU= IT, OU=Tier-2, DC=clab, DC=internal",Helpdesk
+Victoria,Ellen,Helpdesk,6743541205,IT,vellen@clab.internal,vellen,Test1234,"OU= IT, OU=Tier-2, DC=clab, DC=internal",Helpdesk
+April,Sanders,Accounting Manager,9657240340,Accounting,asanders@clab.internal,asanders,Test1234,"OU=Accounting, OU=Departments,OU=Tier-2,DC=clab,DC=internal",Dallas
+Robert,Robertson,Accountant I,6843410015,Accounting,rrobertson@clab.internal,rrobertson,Test1234,"OU=Accounting, OU=Departments,OU=Tier-2,DC=clab,DC=internal",Dallas
+Madison,Roberts,Local Sales Manager,3543513201,Sales,mroberts@clab.internal,mroberts,Test1234,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",Local
+Mary,Roberts,Sales Associate I,3941597538,Sales,mroberts1@clab.internal,mroberts1,Test1234,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",Local
+John,Johnson,Foreign Sales Manager,2577890145,Sales,jjohnson@clab.internal,jjohnson,Test1234,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",Foreign
+Natalie,Carter,Sales Associate I,6147893210,Sales,ncarter@clab.internal,ncarter,Test1234,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",Foreign
