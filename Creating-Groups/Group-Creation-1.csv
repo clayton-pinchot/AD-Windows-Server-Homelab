@@ -1,4 +1,4 @@
-﻿Name,Path,GroupScope,GroupGategory
+﻿Name,Path,GroupScope,GroupCategory
 Server-Admins,"OU=Server-Admins, OU=Tier-1, DC=clab, DC=internal",DomailLocal,Security
 C-Suite,"OU=Admin, OU=Tier-2, DC=clab, DC=internal",DomailLocal,Security
 Sys-Admin,"OU= IT, OU=Tier-2, DC=clab, DC=internal",DomailLocal,Security
