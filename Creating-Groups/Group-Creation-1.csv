@@ -1,8 +1,8 @@
 ﻿Name,Path,GroupScope,GroupCategory
-Server-Admins,"OU=Server-Admins, OU=Tier-1, DC=clab, DC=internal",DomainlLocal,Security
-C-Suite,"OU=Admin, OU=Tier-2, DC=clab, DC=internal",DomainlLocal,Security
-Sys-Admin,"OU= IT, OU=Tier-2, DC=clab, DC=internal",DomainlLocal,Security
-Helpdesk,"OU= IT, OU=Tier-2, DC=clab, DC=internal",DomainlLocal,Security
-Dallas,"OU=Accounting, OU=Departments,OU=Tier-2,DC=clab,DC=internal",DomainlLocal,Security
-Local,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",DomainlLocal,Security
-Foreign,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",DomainlLocal,Security
+Server-Admins,"OU=Server-Admins, OU=Tier-1, DC=clab, DC=internal",DomainLocal,Security
+C-Suite,"OU=Admin, OU=Tier-2, DC=clab, DC=internal",DomainLocal,Security
+Sys-Admin,"OU= IT, OU=Tier-2, DC=clab, DC=internal",DomainLocal,Security
+Helpdesk,"OU= IT, OU=Tier-2, DC=clab, DC=internal",DomainLocal,Security
+Dallas,"OU=Accounting, OU=Departments,OU=Tier-2,DC=clab,DC=internal",DomainLocal,Security
+Local,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",DomainLocal,Security
+Foreign,"OU=Sales, OU=Departments,OU=Tier-2,DC=clab,DC=internal",DomainLocal,Security
