@@ -11,5 +11,11 @@ $ous = Import-Csv -Path "https://raw.githubusercontent.com/clayton-pinchot/AD-Wi
 
 #loop through each OU in the csv file and create it in AD
 foreach ($ou in $ous){
-    New-ADOrganizationalUnit -Name $ou.ouName -Path $ou.ouPath
+    try{
+        New-ADOrganizationalUnit -Name $ou.name -Path $ou.path
+        Write-Host "Successfully created: $($ou.name)" -ForegroundColor Green
+    }
+    catch{
+        Write-Warning "Failed to create $($ou.name): $_"
+    }
 }
