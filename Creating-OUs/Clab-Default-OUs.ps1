@@ -16,6 +16,6 @@ foreach ($ou in $ous){
         Write-Host "Successfully created: $($ou.name)" -ForegroundColor Green
     }
     catch{
-        Write-Warning "Failed to create $($ou.name): $_" -ForegroundColor Red
+        Write-Host "Failed to create $($ou.name): $_" -ForegroundColor Red
     }
 }

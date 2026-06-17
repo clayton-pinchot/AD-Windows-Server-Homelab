@@ -16,6 +16,6 @@ foreach($group in $groups){
         Write-Host "Successfully created: $($group.Name)" -ForegroundColor Green
     }
     catch{
-        Write-Warning "Failed to create $($group.Name): $_" -ForegroundColor Red
+        Write-Host "Failed to create $($group.Name): $_" -ForegroundColor Red
     }
 }
