@@ -7,7 +7,7 @@
 Import-Module ActiveDirectory
 
 #Import csv file with OU names and descriptions
-$ous = Import-Csv -Path "https://raw.githubusercontent.com/clayton-pinchot/AD-Windows-Server-Homelab/refs/heads/main/OU-Creation-1.csv"
+$ous = Import-Csv -Path "C:\Users\Administrator\AD-Windows-Server-Homelab\Creating-OUs\Clab-Default-OUs.csv"
 
 #loop through each OU in the csv file and create it in AD
 foreach ($ou in $ous){
