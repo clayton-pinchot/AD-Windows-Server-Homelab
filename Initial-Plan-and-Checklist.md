@@ -32,22 +32,22 @@
 
 ## Active Directory Policy Setup
 ### Organizational Unit, Group, and User Setup
-#### Planned Completion: 
+#### Completed: 06/17/2026
 | Task                                              | Planned Completion | Date Completed |
 |---------------------------------------------------|--------------------|----------------|
 | Plan OU Structure                                 | 06/03/2026         | 05/27/2026     |
 | Create csv File for OU Creation                   | 06/03/2026         | 05/27/2026     |
 | Create Powershell Script for OU Creation          | 06/03/2026         | 05/27/2026     |
-| Test Powershell Script for OU Creation            |                    |                |
-| Confirm Proper Config of OUs                      |                    |                |
+| Test Powershell Script for OU Creation            |                    | 06/17/2026     |
+| Confirm Proper Config of OUs                      |                    | 06/17/2026     |
 | Create csv File for Group Creation                | 06/03/2026         | 06/03/2026     |
-| Create Powershell Script for Group Creation       |                    |                |
-| Test Powershell Script for Group Creation         |                    |                |
-| Confirm Proper Config of Groups                   |                    |                |
+| Create Powershell Script for Group Creation       |                    | 06/17/2026     |
+| Test Powershell Script for Group Creation         |                    | 06/17/2026     |
+| Confirm Proper Config of Groups                   |                    | 06/17/2026     |
 | Create csv File for User Creation                 | 06/03/2026         | 06/03/2026     |
-| Create Powershell Script for User Creation        |                    |                |
-| Test Powershell Script for User Creation          |                    |                |
-| Confirm Proper Config of Users                    |                    |                |
+| Create Powershell Script for User Creation        |                    | 06/17/2026     |
+| Test Powershell Script for User Creation          |                    | 06/17/2026     |
+| Confirm Proper Config of Users                    |                    | 06/17/2026     |
 
 ### Group Policy Setup
 #### Planned Completion: 
