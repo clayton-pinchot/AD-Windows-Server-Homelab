@@ -10,7 +10,7 @@ $users = Import-CSV -Path "C:\Users\Administrator\AD-Windows-Server-Homelab\Crea
 
 #Loop through each user in the CSV file and create the user in AD
 foreach($user in $users){
-    if(Get-ADUser -Filter "SamAccountName -eq '$($user.username)'"){
+    if(Get-ADUser -Filter "Name -eq '$($user.username)'"){
         Write-Host "User $($user.username) already exists. Skipping creation." -ForegroundColor Yellow
     }
     else{    
